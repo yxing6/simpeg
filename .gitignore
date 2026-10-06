@@ -84,7 +84,7 @@ tutorials/13-joint_inversion/pgi/*
 tutorials/13-joint_inversion/cross_gradient_data/*
 
 # jupyter
-*.ipynb
+# *.ipynb
 
 # results and testing files
 *.obs
